@@ -2,3 +2,5 @@ User-Agent: *
 Allow: /
 
 Sitemap: https://faq-index.web.app/sitemap_git.xml
+Sitemap: https://faq-index.web.app/sitemap__git.xml
+
